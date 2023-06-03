@@ -2,15 +2,15 @@
 ###### yoga pose
 
 ## __📌 프로젝트 진행 순서 📌__
-#### 1. 데이터 수집
+### 1. 데이터 수집
 * 요가 사진 Web Crawling
-#### 2. 데이터 전처리
+### 2. 데이터 전처리
 * 수집한 이미지에서 Person Detection
     * YOLOv5
-#### 3. 자세 평가
+### 3. 자세 평가
 * 요가 자세 Pose Estimation
     * MediaPipe
-#### 4. 결과 판단
+### 4. 결과 판단
 * input Pose Detection
 
 
