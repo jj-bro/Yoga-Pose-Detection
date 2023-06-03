@@ -2,6 +2,10 @@
 ###### yoga pose
 <br>
 
+Pose Detction을 통해 요가 자세의 정확도를 평가하여 올바른 자세인지 판단
+
+<br>
+
 ## __📌 프로젝트 진행 순서 📌__
 ### 1. 데이터 수집
 * 요가 사진 Web Crawling
@@ -20,7 +24,6 @@ __1) 이미지 Web Crawling__
 <!-- <a href="https://drive.google.com/drive/folders/1Ciq-_KrDGRHzgdnoVzq0FdU93TGDZN-B"> 구글 드라이브 </a> -->
 <img src="./readme/1-1.png" width="600">
 <br>
-
 
 ## __📌 2. 데이터 전처리 📌__
 __1) Person Detection__
