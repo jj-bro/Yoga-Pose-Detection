@@ -1,5 +1,5 @@
-# 🧘🏻‍♀️ 요가 자세 🧘🏻‍♀️
-###### yoga pose
+# 🧘🏻‍♀️ Yoga Pose Detection 🧘🏻‍♀️
+###### Yoga Pose Detection
 <br>
 
 Pose Detction을 통해 요가 자세의 정확도를 평가하여 올바른 자세인지 판단
