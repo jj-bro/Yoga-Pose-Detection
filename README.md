@@ -30,9 +30,13 @@ __1) Person Detection__
 <br>
 
 ## __📌 3. 자세 평가 📌__
+평상시 - 흰색 | 정상 - 초록색 | 부족 - 노란색 | 측정불가 - 빨간색
+일반 - ⚪️ | 정상 - 🟢 | 부족 - 🟡 | 측정불가 - 🔴
+<img src="./readme/2-1.png" width="6"> <img src="./readme/2-2.png" width="60"> <img src="./readme/2-3.png" width="60"> <img src="./readme/2-4.png" width="60">
 <br>
 
 ## __📌 4. 테스트 📌__
+<img src="./readme/3-1.gif" width="200">
 <br>
 
 ## __📌 자체 평가 및 개선점 📌__
