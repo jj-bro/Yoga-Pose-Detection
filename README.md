@@ -30,6 +30,7 @@ __1) Image Crawling__
 
 ## __📌 2. Image 전처리 📌__
 __1) Person Detection__
+<img src="./readme/3-1.png" width="600">
 <br>
 
 ## __📌 3. Pose Detection 📌__
