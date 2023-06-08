@@ -33,7 +33,7 @@ __1) Person Detection__
 <!-- 평상시 - 흰색 | 정상 - 초록색 | 부족 - 노란색 | 측정불가 - 빨간색 -->
 일반 - ⚪️ | 정상 - 🟢 | 부족 - 🟡 | 측정불가 - 🔴
 <br>
-<img src="./readme/2-1.png" width="6"> <img src="./readme/2-2.png" width="60"> <img src="./readme/2-3.png" width="60"> <img src="./readme/2-4.png" width="60">
+<img src="./readme/2-1.png" width="60"> <img src="./readme/2-2.png" width="60"> <img src="./readme/2-3.png" width="60"> <img src="./readme/2-4.png" width="60">
 <br>
 
 ## __📌 4. 테스트 📌__
