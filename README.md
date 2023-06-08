@@ -37,7 +37,7 @@ __1) Person Detection__
 <br>
 
 ## __📌 4. 테스트 📌__
-<img src="./readme/3-1.gif" width="200">
+<img src="https://drive.google.com/file/d/1EoAu7InxBeawKvj5-DfoSiPxMNbL7pwI/view?usp=drive_link" width="200">
 <br>
 
 ## __📌 자체 평가 및 개선점 📌__
