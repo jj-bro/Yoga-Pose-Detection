@@ -24,14 +24,14 @@ Pose Detction을 통해 요가 자세의 정확도를 평가하여 올바른 자
 <br>
 
 ## __📌 1. 데이터 수집 📌__
-__1) Image Crawling__
+<!-- __1) Image Crawling__ -->
 <!-- <a href="https://drive.google.com/drive/folders/1Ciq-_KrDGRHzgdnoVzq0FdU93TGDZN-B"> 구글 드라이브 </a> -->
 Selenium을 이용한 이미지 데이터 수집
 <img src="./readme/1-1.png" width="600">
 <br>
 
 ## __📌 2. Image 전처리 📌__
-__1) Person Detection__
+<!-- __1) Person Detection__ -->
 YOLOv5를 이용한 Person Detection 및 이미지 크롭 진행
 <img src="./readme/3-1.png" width="600">
 <br>
