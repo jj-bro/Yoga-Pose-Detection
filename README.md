@@ -46,6 +46,6 @@ MediaPipe, OpenCV를 이용하여 비디오 내 움직임 Detection
 <!-- 평상시 - 흰색 | 정상 - 초록색 | 부족 - 노란색 | 측정불가 - 빨간색 -->
 일반 - ⚪️ | 정상 - 🟢 | 부족 - 🟡 | 측정불가 - 🔴
 <br>
-<img src="./readme/2-1.png" width="70"> <img src="./readme/2-2.png" width="70"> <img src="./readme/2-3.png" width="70"> <img src="./readme/2-4.png" width="70">
+<img src="./readme/2-1.png" width="140"> <img src="./readme/2-2.png" width="140"> <img src="./readme/2-3.png" width="140"> <img src="./readme/2-4.png" width="140">
 <br>
 <br>
